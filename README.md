@@ -7,6 +7,7 @@ You can see the Overview of HLT [PDF Document](https://github.com/EthanOng-CS/HL
 ## Assignment 1 - Texet Processing with Python
 ### Overview
 Program - [Python File](https://github.com/EthanOng-CS/HLT-Portfolio/blob/main/Assignment%201/Homework1_elo180000.py)
+<br />
 CSV File = [CSV File](https://github.com/EthanOng-CS/HLT-Portfolio/tree/main/Assignment%201/data)
 ### Description of Program
 The program takes in the CSV file and processes the data and outputs it in a specific way using pickle. 

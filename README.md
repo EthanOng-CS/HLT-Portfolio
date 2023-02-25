@@ -41,10 +41,10 @@ Program (PDF) - [Python File](https://github.com/EthanOng-CS/HLT-Portfolio/blob/
 
 This is a Google Collab where I demonstrate WordNet and SentiWordNet by outputting simple functions 
 
-## Assignment 4 - N-Grams Language Model
+## Assignment 4 - N-Grams Language Model - WIP
 Program - [Python File]()
 <br />
 Text File - [Text File]()
 
-## Assignment 5 - Web Crawler
+## Assignment 5 - Web Crawler - WIP
 Program - [Python File]()

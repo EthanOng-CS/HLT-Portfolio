@@ -40,3 +40,11 @@ Program (IPYNB) - [Python File](https://github.com/EthanOng-CS/HLT-Portfolio/blo
 Program (PDF) - [Python File](https://github.com/EthanOng-CS/HLT-Portfolio/blob/main/Assignment%203/homework3_elo180000.pdf)
 
 This is a Google Collab where I demonstrate WordNet and SentiWordNet by outputting simple functions 
+
+## Assignment 4 - N-Grams Language Model
+Program - [Python File]()
+<br />
+Text File - [Text File]()
+
+## Assignment 5 - Web Crawler
+Program - [Python File]()

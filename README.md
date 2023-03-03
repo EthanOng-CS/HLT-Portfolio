@@ -48,3 +48,8 @@ Text File - [Text File]()
 
 ## Assignment 5 - Web Crawler - WIP
 Program - [Python File]()
+
+## Assignment 6 - Parsing Sentences - WIP
+PDF File - [PDF File](https://github.com/EthanOng-CS/HLT-Portfolio/blob/main/Assignment%206/homework6_elo180000.pdf)
+
+I learn how to use 3 different kinds of parsing technique: Phrase Structure Grammar (PSG), Dependency, Semantic Role Label (SRL)

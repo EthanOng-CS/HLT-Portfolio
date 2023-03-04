@@ -30,7 +30,7 @@ Throughout the time I work on this assignment I learn how to manipulate strings 
 ## Assignment 2 - Word Guessing Game
 [Python File](https://github.com/EthanOng-CS/HLT-Portfolio/blob/main/Assignment%202/homework2_elo180000.py)
 <br />
-[Text File](https://github.com/EthanOng-CS/HLT-Portfolio/blob/main/Assignment%202/anat19.txt)
+[Data File](https://github.com/EthanOng-CS/HLT-Portfolio/blob/main/Assignment%202/anat19.txt)
 
 This is a word guessing game where it take the 50 most common nouns from the text file. The user gets to start with 5 points and tries to guess the word. The game adds 1 point if the user guess correctly and minus 1 point it the user guess incorrectly. If the user score goes below 0 meaning the score is in the negative the game ends.
 
@@ -41,10 +41,18 @@ This is a word guessing game where it take the 50 most common nouns from the tex
 
 This is a Google Collab where I demonstrate WordNet and SentiWordNet by outputting simple functions 
 
-## Assignment 4 - N-Grams Language Model - WIP
-[Python File]()
+## Assignment 4 - N-Grams Language Model
+[Python File - Program 1](https://github.com/EthanOng-CS/HLT-Portfolio/blob/main/Assignment%204/homework4_Program1_elo180000.py)
 <br />
-[Text File]()
+[Python File - Program 2](https://github.com/EthanOng-CS/HLT-Portfolio/blob/main/Assignment%204/homework4_Program2_elo180000.py)
+<br />
+[Data File](https://github.com/EthanOng-CS/HLT-Portfolio/tree/main/Assignment%204/data)
+
+I used 3 different langauge (English, French, and Itlaian) to make a program that can calculate the probability of sentences given a corpus. There are 2 program within this assignment:
+<br />
+Program 1 - This breaks down the data files of each language and generates numbers for unigrams and bigrams.
+<br />
+Program 2 - Takes the unigrams and bigrams from the program 1 and gets the probability of a sentence.
 
 ## Assignment 5 - Web Crawler - WIP
 [Python File]()

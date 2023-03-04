@@ -48,11 +48,19 @@ This is a Google Collab where I demonstrate WordNet and SentiWordNet by outputti
 <br />
 [Data File](https://github.com/EthanOng-CS/HLT-Portfolio/tree/main/Assignment%204/data)
 
-I used 3 different langauge (English, French, and Itlaian) to make a program that can calculate the probability of sentences given a corpus. There are 2 program within this assignment:
+This Program is done by myself. I used 3 different langauge (English, French, and Itlaian) to make a program that can calculate the probability of sentences given a corpus. There are 2 program within this assignment:
 <br />
 Program 1 - This breaks down the data files of each language and generates numbers for unigrams and bigrams.
 <br />
 Program 2 - Takes the unigrams and bigrams from the program 1 and gets the probability of a sentence.
+
+### How To Run:
+1. To run the program open pycharm and open both python files<br />
+2. In the top right corner click on the name with the drop down arrow and click on "Edit Configuration..." <br />
+3. Type in "data/LangId.train.English, data/LangId.train.French, data/LangId.train.Italian" <br />
+4. click on "Apply" and then "ok"<br />
+5. Click on the gree triangle in the top right to run program 1.<br />
+6. After running program 1 and it is finish, run program 2.<br />
 
 ## Assignment 5 - Web Crawler - WIP
 [Python File]()

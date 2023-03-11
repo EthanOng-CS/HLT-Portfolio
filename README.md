@@ -62,8 +62,10 @@ Program 2 - Takes the unigrams and bigrams from the program 1 and gets the proba
 5. Click on the gree triangle in the top right to run program 1.<br />
 6. After running program 1 and it is finish, run program 2.<br />
 
-## Assignment 5 - Web Crawler - WIP
-[Python File]()
+## Assignment 5 - Web Crawler - 
+[Python File](https://github.com/EthanOng-CS/HLT-Portfolio/blob/main/Assignment%205/Homework5_elo180000.py)
+
+I build a corpus by creating a scraper and web crawler to create a knowledge base.
 
 ## Assignment 6 - Parsing Sentences
 [PDF File](https://github.com/EthanOng-CS/HLT-Portfolio/blob/main/Assignment%206/homework6_elo180000.pdf)

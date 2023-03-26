@@ -71,3 +71,11 @@ I build a corpus by creating a scraper and web crawler to create a knowledge bas
 [PDF File](https://github.com/EthanOng-CS/HLT-Portfolio/blob/main/Assignment%206/homework6_elo180000.pdf)
 
 I learn how to use 3 different kinds of parsing technique: Phrase Structure Grammar (PSG), Dependency, Semantic Role Label (SRL)
+
+## Assignment 7 - Chatbot (WIP)
+
+## Assignment 8 - ACL Paper Summary
+
+I did a paper summary about [Beyond Goldfish Memory∗: Long-Term Open-Domain Conversation](https://aclanthology.org/2022.acl-long.356.pdf)
+
+ 

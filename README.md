@@ -78,4 +78,8 @@ I learn how to use 3 different kinds of parsing technique: Phrase Structure Gram
 
 I did a paper summary about [Beyond Goldfish Memory∗: Long-Term Open-Domain Conversation](https://aclanthology.org/2022.acl-long.356.pdf)
 
+ ## Assignment 9 - Text Classification 1
  
+ [IPYNB File](https://github.com/EthanOng-CS/HLT-Portfolio/blob/main/Assignment%209/Homework9__Text_Classification_1_elo180000.pdf)
+ 
+I did a Text Classification from a data set I got from Kaggle.com. I then read the file and divide it from testing and training. I then use a few different approaches to get the accuracy of each approach.

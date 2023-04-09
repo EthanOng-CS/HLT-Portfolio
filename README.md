@@ -83,3 +83,10 @@ I did a paper summary about [Beyond Goldfish Memory∗: Long-Term Open-Domain Co
  [IPYNB File](https://github.com/EthanOng-CS/HLT-Portfolio/blob/main/Assignment%209/Homework9__Text_Classification_1_elo180000.pdf)
  
 I did a Text Classification from a data set I got from Kaggle.com. I then read the file and divide it from testing and training. I then use a few different approaches to get the accuracy of each approach.
+
+ ## Assignment 10 - Text Classification 2
+ 
+ [IPYNB File](https://github.com/EthanOng-CS/HLT-Portfolio/blob/main/Assignment%2010/Homework10_elo180000_Text_Classification_2.ipynb%20-%20Colaboratory.pdf)
+ 
+ I did a Text Classification 2 from a data set I got from kaggle.com. I then read the file and divide it from testing and training. I then use a few different approaches to get the accuracy of each approach.
+

@@ -72,7 +72,13 @@ I build a corpus by creating a scraper and web crawler to create a knowledge bas
 
 I learn how to use 3 different kinds of parsing technique: Phrase Structure Grammar (PSG), Dependency, Semantic Role Label (SRL)
 
-## Assignment 7 - Chatbot (WIP)
+## Assignment 7 - Chatbot
+
+[Python File](https://github.com/EthanOng-CS/HLT-Portfolio/blob/main/Assignment%207/main.py)
+[CSV File](https://github.com/EthanOng-CS/HLT-Portfolio/blob/main/Assignment%207/uscities.csv)
+[Report and Evaluation PDF](https://github.com/EthanOng-CS/HLT-Portfolio/blob/main/Assignment%207/Report%20and%20Evaluation.pdf)
+
+I Program a Chatbot the uses knowledge base about the US cities
 
 ## Assignment 8 - ACL Paper Summary
 

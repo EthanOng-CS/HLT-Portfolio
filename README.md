@@ -75,7 +75,9 @@ I learn how to use 3 different kinds of parsing technique: Phrase Structure Gram
 ## Assignment 7 - Chatbot
 
 [Python File](https://github.com/EthanOng-CS/HLT-Portfolio/blob/main/Assignment%207/main.py)
+<br />
 [CSV File](https://github.com/EthanOng-CS/HLT-Portfolio/blob/main/Assignment%207/uscities.csv)
+<br />
 [Report and Evaluation PDF](https://github.com/EthanOng-CS/HLT-Portfolio/blob/main/Assignment%207/Report%20and%20Evaluation.pdf)
 
 I Program a Chatbot the uses knowledge base about the US cities

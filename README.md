@@ -1,5 +1,7 @@
 # HLT-Portfolio
-This is the all of the work I've done in CS 4395 Human Langauge Technologies
+This is the all of the work I've done in CS 4395 Human Langauge Technologies. 
+
+I feel like my skills in NLP has increase in some ways and I have learned alot. I plan one day in my future to make a chatbot project that will be able to the basic of a chatbot and make it something like J.A.R.V.I.S from the Movie Avengers: Age of Ulton. I could possibly get in Data Science NLP as a profession. 
 
 ## Overview of HLT
 You can see the Overview of HLT [PDF Document](https://github.com/EthanOng-CS/HLT-Portfolio/blob/main/Overview_of_NLP.pdf)
